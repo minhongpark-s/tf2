@@ -44,3 +44,4 @@ tf.compat.v1.disable_eager_execution()
 버그, 개선 의견은 이슈(Issues)에 남겨주세요.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwikibook%2Ftf2)](https://hits.seeyoufarm.com)
+![1312](https://user-images.githubusercontent.com/76476451/156350865-ec40c678-09a7-4491-95ec-a6c890539384.png)
