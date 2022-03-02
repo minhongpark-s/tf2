@@ -45,3 +45,4 @@ tf.compat.v1.disable_eager_execution()
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwikibook%2Ftf2)](https://hits.seeyoufarm.com)
 ![1312](https://user-images.githubusercontent.com/76476451/156350865-ec40c678-09a7-4491-95ec-a6c890539384.png)
+![1](https://user-images.githubusercontent.com/76476451/156351009-e28eea17-e70a-4124-be74-41751879bef3.png)
